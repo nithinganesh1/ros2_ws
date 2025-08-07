@@ -1,0 +1,25 @@
+# Ignore everything by default
+*
+
+# But track the .gitignore file itself
+!.gitignore
+
+# Only track the src/ folder and its contents
+!src/
+!src/**
+
+# Ignore ROS 2 build artifacts
+build/
+install/
+log/
+
+# Ignore hidden files/directories (optional)
+.*  # e.g., .vscode/, .DS_Store, etc.
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Colcon-related ignores (in case any pop up)
+COLCON_IGNORE
+
