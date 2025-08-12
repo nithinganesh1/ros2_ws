@@ -14,12 +14,13 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='nithin',
-    maintainer_email='nithin@todo.todo',
+    maintainer_email='nithingganesh1@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            "say_hello = my_robot_controll.my_first_node:main"
         ],
     },
 )

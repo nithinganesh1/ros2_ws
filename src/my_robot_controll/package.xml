@@ -4,7 +4,7 @@
   <name>my_robot_controll</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="nithin@todo.todo">nithin</maintainer>
+  <maintainer email="nithingganesh1@gmail.com">nithin</maintainer>
   <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
