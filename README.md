@@ -1,5 +1,4 @@
-# ROS 2 Basics: Course Notes
-
+# ROS 2 Basics
 ---
 
 ## 1. Introduction to ROS 2
