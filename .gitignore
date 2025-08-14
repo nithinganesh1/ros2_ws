@@ -23,3 +23,5 @@ __pycache__/
 # Colcon-related ignores (in case any pop up)
 COLCON_IGNORE
 
+# vscode
+.vscode/
