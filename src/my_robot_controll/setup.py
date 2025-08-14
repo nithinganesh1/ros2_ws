@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "say_hello = my_robot_controll.my_first_node:main"
+            "say_hello = my_robot_controll.my_first_node:main",
+            "Drow_Circle = my_robot_controll.drow_circle:main"
         ],
     },
 )
