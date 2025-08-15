@@ -22,7 +22,8 @@ setup(
         'console_scripts': [
             "say_hello = my_robot_controll.my_first_node:main",
             "Drow_Circle = my_robot_controll.drow_circle:main",
-            "Pose_subscriber = my_robot_controll.pose_subscriber:main"
+            "Pose_subscriber = my_robot_controll.pose_subscriber:main",
+            "Avoid_edge = my_robot_controll.avoid_edge:main"
         ],
     },
 )
